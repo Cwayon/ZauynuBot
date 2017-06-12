@@ -1,0 +1,1 @@
+start cmd.exe /k "python C:\Users\Zayn\Documents\GitHub\ZauynuBot\Torso.py"
