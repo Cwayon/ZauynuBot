@@ -1,3 +1,3 @@
 # ZauynuBot
 
-why are you here
+Testing discord API
